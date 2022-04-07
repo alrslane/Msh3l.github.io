@@ -11,11 +11,11 @@
 
 <div><ul class="btns">
 
-<li><div class="cydia"><a href="cydia://url/https://cydia.saurik.com/api/share#?source=alrslane.github.io.z"><button class="cydiabtn">CYDIA</button></a></div></li>
+<li><div class="cydia"><a href="cydia://url/https://cydia.saurik.com/api/share#?source=alrslane.github.com"><button class="cydiabtn">CYDIA</button></a></div></li>
 
-<li><div class="sileo"> <a href="sileo://source/alrslane.github.io.z"><button class="sileobtn">SILEO</button> </a></div></li>
+<li><div class="sileo"> <a href="sileo://source/alrslane.github.com"><button class="sileobtn">SILEO</button> </a></div></li>
 
-<li><div class="zebra"><a href="zbra://sources/add/alrslane.github.io.z/"><button class="zebrabtn">ZEBRA</button> </a></div></li>
+<li><div class="zebra"><a href="zbra://sources/add/alrslane.github.com/"><button class="zebrabtn">ZEBRA</button> </a></div></li>
 
 </ul></div>
 </body>
