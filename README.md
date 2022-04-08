@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>♡</h1>
-<div ><imgsrc="CydiaIcon.png" alt=""style="width:100px"; ></div>
+<div ><img src="CydiaIcon.png" alt=""style="width:100px"; ></div>
 
 <div class="name"><p>repo for tweaks</p></div>
 
